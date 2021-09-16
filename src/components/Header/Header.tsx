@@ -1,4 +1,3 @@
-import {CardFlip} from "../CardFlip";
 import {CardsType, SCREEN_END, SCREEN_START} from "../cards/cardsReducer";
 import s from './Header.module.css'
 
