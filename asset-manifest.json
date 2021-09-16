@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/game_find-the-pair/static/css/main.cad40564.chunk.css",
+    "main.js": "/game_find-the-pair/static/js/main.f0673ced.chunk.js",
+    "main.js.map": "/game_find-the-pair/static/js/main.f0673ced.chunk.js.map",
+    "runtime-main.js": "/game_find-the-pair/static/js/runtime-main.16314052.js",
+    "runtime-main.js.map": "/game_find-the-pair/static/js/runtime-main.16314052.js.map",
+    "static/js/2.d1735935.chunk.js": "/game_find-the-pair/static/js/2.d1735935.chunk.js",
+    "static/js/2.d1735935.chunk.js.map": "/game_find-the-pair/static/js/2.d1735935.chunk.js.map",
+    "static/js/3.16a95615.chunk.js": "/game_find-the-pair/static/js/3.16a95615.chunk.js",
+    "static/js/3.16a95615.chunk.js.map": "/game_find-the-pair/static/js/3.16a95615.chunk.js.map",
+    "index.html": "/game_find-the-pair/index.html",
+    "static/css/main.cad40564.chunk.css.map": "/game_find-the-pair/static/css/main.cad40564.chunk.css.map",
+    "static/js/2.d1735935.chunk.js.LICENSE.txt": "/game_find-the-pair/static/js/2.d1735935.chunk.js.LICENSE.txt",
+    "static/media/obl.cc8e49c0.jpg": "/game_find-the-pair/static/media/obl.cc8e49c0.jpg",
+    "static/media/tuz.051ec6cd.jpg": "/game_find-the-pair/static/media/tuz.051ec6cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16314052.js",
+    "static/js/2.d1735935.chunk.js",
+    "static/css/main.cad40564.chunk.css",
+    "static/js/main.f0673ced.chunk.js"
+  ]
+}
