@@ -1,0 +1,14 @@
+.button {
+    display: block;
+    border-radius: 10px;
+    background-color: dodgerblue;
+    cursor: pointer;
+    margin: 200px auto 200px auto;
+    width: 200px;
+    height: 80px;
+    color: white;
+}
+.button:hover{
+    transform: scale(1.1);
+}
+
